@@ -1,0 +1,3 @@
+[submodule "EcoCart"]
+	path = EcoCart
+	url = https://github.com/ChallagidadMahadev/EcoCart.git
